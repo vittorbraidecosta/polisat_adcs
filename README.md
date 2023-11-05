@@ -6,4 +6,4 @@ Each subsystem had a main goal and for the Attitude Determination Control System
 
 With no previous experience, I took the challenge to create a Python code that could be later implemented in the control system. This code is available in this repo and the output obtained can be seen in the figure below: 
 
-![](file:///C:/Users/vitto/Downloads/img_example.jpg)
+![](img_example.jpg)
